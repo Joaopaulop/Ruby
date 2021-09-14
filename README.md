@@ -1,13 +1,13 @@
 # Ruby
 
-#Notas Relevantes
+# Notas Relevantes
 Curso de Iniciação à Linguagem Ruby
 
-#Como Usar
+# Como Usar
 Para compilar e executar os arquivos presentes no repositório é necessário ter o ruby instalado na máquina seguindo a documentação da linguagem. 
 https://www.ruby-lang.org/pt/downloads/
 
-#Ferramentas Utilizadas 
+# Ferramentas Utilizadas 
 - ruby 3.0.2p107
 - Sublime Text
 - 
