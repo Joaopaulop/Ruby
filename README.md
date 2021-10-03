@@ -9,5 +9,6 @@ https://www.ruby-lang.org/pt/downloads/
 
 # Ferramentas Utilizadas 
 - ruby 3.0.2p107
+- vscode
 - Sublime Text
-- 
+- versionamento git e github
